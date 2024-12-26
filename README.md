@@ -9,7 +9,7 @@ git clone https://github.com/imRichBrain/havashenasi
 ```
 go to folder 
 ```text
-cd hava_sh
+cd havashenasi 
 ```
 
 run the havashenasi.sh
