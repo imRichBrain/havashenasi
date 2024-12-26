@@ -1,6 +1,6 @@
 # HAVASHENASI v1.0
 *abzare karbordi havashenasi*
-![havashenasi bash file](./scs.jpg)
+![havashenasi bash file](./scsh.jpg)
 
 
 ## installation 
